@@ -18,7 +18,7 @@ And that, folks, is why I built Retrowait. A simple Python package that takes th
 1. Stuck in a lecture that stolidly refuses to end;
 2. Dealing with a tech team standup and wondering why you ever started writing code;
 3. Waiting for *Game of Thrones* to stream, and wondering who's sitting on the Iron Throne next;
-4. <INSERT SITUATION OF CHOICE HERE.>
+4. |INSERT SITUATION OF CHOICE HERE.|
 
 
 
@@ -30,7 +30,7 @@ In the future, you'd be able to:
 
 1. Go even farther back in time, because obviously - to make time go *really* fast, you have to go back *really* far. I'm telling you, time only makes sense if you go backwards.
 2. Consume this amazing algorithm through Slack and Messenger bots, while you're waiting for another person to freaking type out his/her message. Let's make waiting great again!
-3. Uh..mobile app? Hybrid progressive web <INSERT FANCY TREND> app? Oh, damn it.
+3. Uh..mobile app? Hybrid progressive web |INSERT FANCY TREND| app? Oh, damn it.
 
 See? Told ya.
 
