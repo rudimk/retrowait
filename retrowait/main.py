@@ -15,6 +15,9 @@ class Wait:
         self.progress_in_years = math.exp(20.344*(self.progress**3)+3) - math.exp(3)
         self.back_date = self.current_date.replace(years=-int(self.progress_in_years))
         self.year = self.back_date.year
+    
+    def info(self):
+        print wikipedia.summary(str(self.year))
         
 
 
