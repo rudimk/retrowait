@@ -62,7 +62,7 @@ And that's it! To see what the calculated year was, use `w.year` - or if you wan
 
 ## Issues
 
-1. As of now, Python's datetime capabilities don't include BC dates. That's a bummer - it was such a fun time! 
+1. As of now, Python's datetime capabilities don't include BC dates. That's a bummer - it was such a fun time! Unfortunately, this also means that if `progress` is more than 61%, it breaks. Which is stupid.
 2. Another thing that is a little tough with datetime, is using non-integers in datetime algebra. It sounds pretty obvious mathematically - but apparently it isn't. 
 3. It would be nice to pretty-print more information from Wikipedia for a particular year.
 
